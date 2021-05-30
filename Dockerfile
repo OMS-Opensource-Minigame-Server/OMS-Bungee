@@ -3,7 +3,7 @@ RUN mkdir /home/container &&\
     mkdir /home/container/plugins &&\
     wget https://papermc.io/api/v2/projects/waterfall/versions/1.16/builds/422/downloads/waterfall-1.16-422.jar -O /home/container/proxy.jar
 
-COPY staging /home/container/plugins
+COPY ./staging /home/container/plugins
 
 WORKDIR /home/container
 
