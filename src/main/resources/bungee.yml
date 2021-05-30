@@ -1,4 +1,4 @@
-name: Bungee Core
+name: ${project.name}
 version: ${project.version}
+description: ${project.description}
 main: fun.reallyisnt.oms.bungeecore.BungeeCore
-description: OMS Core for Bungeecord
