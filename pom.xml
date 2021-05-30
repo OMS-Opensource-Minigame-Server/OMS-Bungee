@@ -73,5 +73,10 @@
             <artifactId>jedis</artifactId>
             <version>3.6.0</version>
         </dependency>
+        <dependency>
+            <groupId>fun.reallyisnt.oms</groupId>
+            <artifactId>agonessdk</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 </project>
