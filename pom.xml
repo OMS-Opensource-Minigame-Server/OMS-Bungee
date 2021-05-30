@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Bungee Core</name>
+    <name>Bungee-Core</name>
 
     <description>OMS Core for Bungeecord</description>
     <properties>
